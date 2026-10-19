@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-brampton",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "City of Brampton GIS — Brampton, Ontario (Canada) open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-44396e55894b39d85fa61cc143c1e600769cdf0e572ec0ed4c86222b329897ed",
-    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
+    "sourceHash": "v1-0ce0a1e0a9f3db27cbcb3235c847b4b0f1cafc2abd0b06078e58e8afda526c85",
+    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
   }
 }
